@@ -28,13 +28,13 @@ To run the code, you have three options:
     3. Open the Python file "forecasting_dst_index_using_machine_learning.py"
     5. Change the file path on lines 30 and 276 to the path of "DST(Time-Series Format).csv" file
     6. Adjust the code by commenting out the unecessary outputs
-    3. Run the Python file
+    7. Run the Python file
 
 2. Run .ipynb file on local machine
     1. Clone this repository to your local machine.
     2. Install the required libraries.
     3. Comment out the lines about mounting the drive
-    3. Run the Jupyter notebook "DST-Forecasting-ML.ipynb".
+    4. Run the Jupyter notebook "DST-Forecasting-ML.ipynb".
 
 3. Run .ipynb file using Google Colab
     1. Download the "DST(Time-Series Format).csv" file
