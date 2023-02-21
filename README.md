@@ -1,1 +1,1 @@
-# DST-Index-Forecasting-with-ML-Algorithms
+# DST Index Forecasting using ML Algorithms
